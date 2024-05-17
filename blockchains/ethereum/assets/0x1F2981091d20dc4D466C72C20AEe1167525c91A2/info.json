@@ -1,0 +1,45 @@
+{
+    "name": "WrappedAIPG",
+    "type": "ERC20",
+    "symbol": "wAIPG",
+    "decimals": 18,
+    "website": "https://aipowergrid.io/",
+    "description": "SUper cool description",
+    "explorer": "https://etherscan.io/address/0x1F2981091d20dc4D466C72C20AEe1167525c91A2",
+    "status": "active",
+    "id": "0x1F2981091d20dc4D466C72C20AEe1167525c91A2",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/AIPowerGrid"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/coins/ai-power-grid"
+        },
+        {
+            "name": "website",
+            "url": "https://aipowergrid.io/"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/vZ9XrTSRYr"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/aipowergrid"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/AIPowerGrid/"
+        },
+        {
+            "name": "youtube",
+            "url": "https://www.youtube.com/@AIPowerGrid"
+        },
+        {
+            "name": "instagram",
+            "url": "https://www.instagram.com/aipowergrid/"
+        },
+    ]
+}
